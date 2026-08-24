@@ -9,6 +9,14 @@ Practical AI builds, explained simply. Real demos, honest failures, no jargon.
 - Multi-agent orchestration system: the orchestrator I use every day. A primary agent dispatches Codex, Claude, and Gemini subagents in isolated git worktrees with scoped tool allowlists, quality gates, and persistent memory. No public repo yet.
 - [The content engine](https://ibrahim.build/builds): the pipeline behind the Ibrahim Builds videos. OBS capture, FFmpeg, faster-whisper captions, QC gates, and Instagram Graph API publishing with human approval. Being built in public.
 
+## Free starter kits
+
+Each kit is a folder you open in [Claude Code](https://docs.anthropic.com/en/docs/claude-code). No sign-up, no build step, everything stays on your machine.
+
+- [ai-starter-harness](https://github.com/twinturbosystems/ai-starter-harness): new to AI. It explains every term the first time it appears, goes one step at a time, and builds your first real thing with you.
+- [family-ops-harness](https://github.com/twinturbosystems/family-ops-harness): for parents. Meal plans, grocery lists, the week's schedule, chores, and a budget check, from a family profile that stays on your machine.
+- [security-starter-harness](https://github.com/twinturbosystems/security-starter-harness): new to security. Phishing checks, account lock-down, home network and small-business basics, in plain English. Defensive only.
+
 ## Background
 
 14 years in security: detection engineering, incident response, network and cloud defense, and offensive work. At Microsoft I am the only AI agent builder on a security engineering team. I built and run the internal agent development platform on Microsoft Foundry, security-first from the start (default-on guardrails, sandboxed tool execution, model provider abstraction, multi-agent orchestration), now used by hundreds of Microsoft engineers. I also built the AI Model Security Scanner and lead a small team building AI pentesting agents. Before that I was Head of Security at Swish Analytics, a hands-on CISO role where I owned every security function and took the company through SOC 2 readiness. Earlier I led security operations and incident response on contract at the U.S. Nuclear Regulatory Commission in an air-gapped facility, did digital forensics for the U.S. Department of Energy, and ran red team engagements at Coalfire for federal and commercial clients.
