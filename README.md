@@ -44,11 +44,11 @@ The security side is the same question with sharper edges. I test prompt injecti
 
 ## Background
 
-14 years in security: detection engineering, incident response, network and cloud defense, and offensive work. At Microsoft I am the only AI agent builder on a security engineering team. I built and run the internal agent development platform on Microsoft Foundry, security-first from the start with default-on guardrails, sandboxed tool execution, model provider abstraction, and multi-agent orchestration. I also built the AI Model Security Scanner and lead a small team building AI pentesting agents that validate internal applications on their own. Before that I was Head of Security at Swish Analytics, a hands-on CISO role where I owned every security function and took the company through SOC 2 readiness. Earlier I led security operations and incident response on contract at the U.S. Nuclear Regulatory Commission in an air-gapped facility, did digital forensics for the U.S. Department of Energy, and ran red team engagements at Coalfire for federal and commercial clients.
+14 years in security: detection engineering, incident response, cloud defense, and red team work. Today I am an AI agent developer and principal security engineer at Microsoft, and the founder of Beit Systems.
 
-From December 2023 to March 2024 I taught a live introductory cloud and cybersecurity class, weekly on Sunday mornings, for a cohort of career changers. Teaching beginners is where I learned to explain this work without jargon, and it is why the kits above are free and written for someone who has never opened a terminal.
+I also taught a live cloud and cybersecurity class to a cohort of career changers, which is why the kits above are free and written for someone who has never opened a terminal.
 
-The full career history, the roles, and the education are on [LinkedIn](https://www.linkedin.com/in/ibrahim--/).
+More on [LinkedIn](https://www.linkedin.com/in/ibrahim--/).
 
 ## Stack
 
