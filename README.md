@@ -8,23 +8,25 @@ Each kit is a folder you download. Inside are ordinary text files: one holds the
 
 The kits work with [Claude Code](https://docs.anthropic.com/en/docs/claude-code), Codex, or a browser chat like ChatGPT. Claude Code is the smoothest because the folder is built for it, and each kit ships a one-prompt setup for the others.
 
+Open a kit below to get it. If one turns out to be useful, a star helps other people find it.
+
 ### AI Starter Kit
 
 New to AI. It explains every term the first time it appears, goes one step at a time, and builds your first real thing with you.
 
-[Download](https://github.com/twinturbosystems/ai-starter-harness/archive/refs/heads/main.zip) · [Repo](https://github.com/twinturbosystems/ai-starter-harness) · [One-prompt setup](https://github.com/twinturbosystems/ai-starter-harness/blob/main/ONE-PROMPT.md)
+[Get the kit](https://github.com/twinturbosystems/ai-starter-harness) · [One-prompt setup](https://github.com/twinturbosystems/ai-starter-harness/blob/main/ONE-PROMPT.md)
 
 ### Family Ops Kit
 
 For parents. Meal plans, grocery lists, the week's schedule, chores, and a budget check, from a family profile that stays on your machine.
 
-[Download](https://github.com/twinturbosystems/family-ops-harness/archive/refs/heads/main.zip) · [Repo](https://github.com/twinturbosystems/family-ops-harness) · [One-prompt setup](https://github.com/twinturbosystems/family-ops-harness/blob/main/ONE-PROMPT.md)
+[Get the kit](https://github.com/twinturbosystems/family-ops-harness) · [One-prompt setup](https://github.com/twinturbosystems/family-ops-harness/blob/main/ONE-PROMPT.md)
 
 ### Security Starter Kit
 
 New to security. Phishing checks, account lock-down, home network and small-business basics, in plain English. Defensive only.
 
-[Download](https://github.com/twinturbosystems/security-starter-harness/archive/refs/heads/main.zip) · [Repo](https://github.com/twinturbosystems/security-starter-harness) · [One-prompt setup](https://github.com/twinturbosystems/security-starter-harness/blob/main/ONE-PROMPT.md)
+[Get the kit](https://github.com/twinturbosystems/security-starter-harness) · [One-prompt setup](https://github.com/twinturbosystems/security-starter-harness/blob/main/ONE-PROMPT.md)
 
 ## What I actually do
 
